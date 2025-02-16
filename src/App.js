@@ -7,6 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="New York" />
+
         <footer>
           This project was coded by Sarah Farchoukh and is
           <a
@@ -16,6 +17,10 @@ export default function App() {
           >
             {" "}
             open-sourced on GitHub.
+          </a>{" "}
+          and{" "}
+          <a href="https://superb-starlight-aca7a9.netlify.app/">
+            hosted on Netlify
           </a>
         </footer>
       </div>
