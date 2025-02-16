@@ -19,7 +19,10 @@ export default function App() {
             open-sourced on GitHub.
           </a>{" "}
           and{" "}
-          <a href="https://superb-starlight-aca7a9.netlify.app/">
+          <a
+            href="https://superb-starlight-aca7a9.netlify.app/"
+            target="_blank"
+          >
             hosted on Netlify
           </a>
         </footer>
