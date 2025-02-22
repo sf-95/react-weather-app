@@ -22,6 +22,7 @@ export default function App() {
           <a
             href="https://superb-starlight-aca7a9.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             hosted on Netlify
           </a>
